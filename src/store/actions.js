@@ -19,3 +19,4 @@ export default {
     commit(CLEAR_ALL_COMPLETED)
   }
 }
+console.log('123')
